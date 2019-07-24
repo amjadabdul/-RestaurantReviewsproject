@@ -10,4 +10,4 @@ For the Restaurant Reviews projects, you will incrementally convert a static web
 3- Progressive Web Application by caching some assets for offline use.
 
 ## Leaflet.js and Mapbox:
-This repository uses leafletjs with Mapbox. You need to replace mapboxToken: with a token from Mapbox-Access token in main.js and restaurant_info.js. Mapbox is free to use, and does not require any payment information."# -Restaurant-Reviews-project" 
+This repository uses leafletjs with Mapbox. You need to replace mapboxToken: with a token from Mapbox-Access token in main.js and restaurant_info.js. Mapbox is free to use, and does not require any payment information. 
